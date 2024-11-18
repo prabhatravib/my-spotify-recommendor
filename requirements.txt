@@ -1,6 +1,6 @@
 ﻿Flask==2.2.5
 gunicorn==20.1.0
 Werkzeug==2.2.3
-pandas==1.5.3
-numpy==1.24.3
-spotipy
+pandas==2.2.2
+numpy==2.0.0
+spotipy==2.24.0
